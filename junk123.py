@@ -3,3 +3,6 @@ def foo():
 
 def goo():
     return 768
+
+def junk():
+    return ""
