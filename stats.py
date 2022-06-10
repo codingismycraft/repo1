@@ -1,2 +1,2 @@
-def average(i, j):
-    return (i + j) / 2
+def average(i, j, k):
+    return (i + j + k) / 3
